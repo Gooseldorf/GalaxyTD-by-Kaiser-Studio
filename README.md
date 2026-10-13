@@ -2,6 +2,10 @@
 
 A 2D tower-defense project built around Unity Entities. This README is a guide to the codebase: how mission data becomes a running simulation, and where to find its main systems.
 
+## Gameplay and Android demo
+
+Watch gameplay videos on the [Behance project page](https://www.behance.net/gooseldorf). Download the [Android demo build](https://gooseldorf.itch.io/gunztd).
+
 ## Architecture at a glance
 
 The project uses two cooperating layers:
